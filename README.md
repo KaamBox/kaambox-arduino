@@ -40,16 +40,29 @@ Then, in the `Tools` menu, select the following values:
 
 ## Gallery
 
+### Woodcrafting
+
 ![KaamBox 1](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_1.jpg)
 
 ![KaamBox 2](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_2.jpg)
 
+### Components view: 2 servos & 2 switches
+
 ![KaamBox 3](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_3.jpg)
+
+### Wiring & tests
 
 ![KaamBox 4](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_4.jpg)
 
 ![KaamBox 5](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_5.jpg)
 
+### First prototype
+
 ![KaamBox 6](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_6.jpg)
 
+### Final prototype
 ![KaamBox 7](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_7.jpg)
+
+### Back shot with power button
+
+![KaamBox 8](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/images/box_8.jpg)
