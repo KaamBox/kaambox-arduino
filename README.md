@@ -1,5 +1,11 @@
 # kaambox-media
 
+## Description
+
+`KaamBox` is a custom *useless box* that triggers a random Kaamelott sound handled by a daemon process on a remote server
+(see the [`kaambox-daemon`](https://github.com/KaamBox/kaambox-daemon) project).
+
+
 ## Setup
 
 * Set this `Complementary board URL` in your Arduino IDE settings: `http://arduino.esp8266.com/versions/2.4.0/package_esp8266com_index.json`
