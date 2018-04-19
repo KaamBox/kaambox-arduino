@@ -39,9 +39,9 @@ Then, in the `Tools` menu, select the following values:
 | CABMICUSB01M | Usb to Micro USB Cable (0.1M) | 2.50€ | 1 | 2.50€ |
 
 
-## Demo
+## Demo (without sound)
 
-[Video demonstration of the finished product](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/demo.mp4)
+![GIF demonstration of the finished product](https://raw.githubusercontent.com/KaamBox/kaambox-media/master/demo.gif)
 
 
 ## Gallery
