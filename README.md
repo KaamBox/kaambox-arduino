@@ -1,4 +1,4 @@
-# kaambox-media
+# kaambox-arduino
 
 ## Description
 
